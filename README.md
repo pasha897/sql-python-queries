@@ -1,4 +1,13 @@
-# sql-python-queries
+# E-Commerce Sales Analysis
+
+Conducted in-depth analysis of retail sales data using SQL and Python in a Jupyter Notebook environment. Leveraged SQL queries embedded in Python to perform operations such as filtering by price range, calculating average prices, counting products per brand, and identifying brands with maximum pricing. Integrated Python (Pandas, SQLite) for dynamic querying, result handling, and data manipulation. Demonstrated ability to blend database querying with Python scripting for effective data insights.
+
+Key Contributions:
+   Executed complex SQL queries including joins, groupings, and conditions within Python.
+   Developed reusable data analysis code in Jupyter Notebook for reporting tasks.
+   Performed brand-level aggregation, price filtering, and category-specific product analysis.
+ 
+Skills: Python, SQL, SQLite, Pandas, Data Analysis, Jupyter Notebook, Retail Data
 
 '''Basic Queries
 1. List all unique cities where customers are located.
